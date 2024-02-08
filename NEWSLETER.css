@@ -1,0 +1,14 @@
+/*======ABOUT US=====*/
+.about__aboutus{
+    margin-top: 3rem;
+    }
+    
+    .about__aboutus-container{
+        display: grid;
+        grid-template-columns: 40% 60%;
+        gap: 5rem;
+    }
+    
+    .about__aboutus-right > p{
+        margin: 1.6rem 0 2.5rem;
+    }
